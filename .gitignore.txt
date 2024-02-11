@@ -1,0 +1,6 @@
+venv/
+laptop_venv/
+.idea/
+migrations/
+__pycache__/
+Training/db.sqlite3
