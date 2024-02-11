@@ -24,3 +24,4 @@ if (carMileage >= 1000000) {
 let obj = {czlowiek: 'Tomasz'}
 console.log(obj.czlowiek)
 
+if (true && true) console.log('#1');
